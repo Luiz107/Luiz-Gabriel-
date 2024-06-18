@@ -13,16 +13,17 @@
 
 ## 📚 Educação ##
 - Graduação em Análise e Desenvolvimento de Sistemas pela FIAP
-- Curso CS50: Introduction to Computer Science - Harvard Online
+- Especialização em andamento pela UFPR em Engenharia de Software Ágil
+- Curso em andamento "CS50: Introduction to Computer Science - Harvard Online"
 
 ## 🎯 Foco Atual ##
 - Reforçando os conceitos e práticas da ciência da computação de maneira autodidata através de cursos livres no YouTube e livros 📚
-- Aprofundando no Java
-- SQL, PL/SQL e Banco de dados 
-- Estudando estrutura de dados em C
+- Aprofundando no Java e desbravando o framework Spring
+- SQL e Banco de dados 
+- Estudando e praticando projetos web com HTML, CSS, JavaScript, TypeScript e algum framework
 - Inglês
 
 ## 📫 Contato ##
 - LinkedIn: https://www.linkedin.com/in/luiz-gabriel-bruscagim/
-- E-mail: luizgabriel107@hotmail.com
+- E-mail: luiz.bruscagim@outlook.com
 
